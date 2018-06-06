@@ -106,3 +106,4 @@ function execGetOutput(command, args, description) {
 }
 
 setup();
+//运行
